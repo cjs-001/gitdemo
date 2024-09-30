@@ -21,6 +21,11 @@ public class Basics_01 {
 		System.out.println("day3");
 	}
 	
+	@Test
+	void developbranch() {
+		System.out.println("day3");
+	}
+	
 	@BeforeTest
 	void beforeTest()
 	{
