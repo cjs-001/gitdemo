@@ -16,6 +16,11 @@ public class Basics_01 {
 		System.out.println("day2");
 	}
 	
+	@Test
+	void day3() {
+		System.out.println("day3");
+	}
+	
 	@BeforeTest
 	void beforeTest()
 	{
