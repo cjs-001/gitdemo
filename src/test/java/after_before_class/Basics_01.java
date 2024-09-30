@@ -17,13 +17,8 @@ public class Basics_01 {
 	}
 	
 	@Test
-	void day3() {
-		System.out.println("day3");
-	}
-	
-	@Test
-	void developbranch() {
-		System.out.println("day3");
+	void day4() {
+		System.out.println("day2");
 	}
 	
 	@BeforeTest
