@@ -15,10 +15,9 @@ public class Basics_01 {
 	void day2() {
 		System.out.println("day2");
 		System.out.println();
-		System.out.println("day2");
 		
-		System.out.println("day2");
-		System.out.println();
+		
+		
 	}
 	
 	@Test
