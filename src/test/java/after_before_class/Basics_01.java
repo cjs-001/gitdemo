@@ -14,6 +14,7 @@ public class Basics_01 {
 	@Test
 	void day2() {
 		System.out.println("day2");
+		System.out.println();
 	}
 	
 	@Test
